@@ -1,0 +1,1 @@
+Thu May 17 2018 16:36:37 GMT+0900 (東京 (標準時)) MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
